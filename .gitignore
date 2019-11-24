@@ -1,0 +1,12 @@
+# state files
+*.tfstate
+*.tfstate.*
+
+# local terraform directories
+**/.terraform/*
+
+# terraform variable files
+*.tfvars
+
+# Apple cooties
+.DS_Store
